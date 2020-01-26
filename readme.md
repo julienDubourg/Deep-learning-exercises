@@ -1,3 +1,5 @@
 Hello,
 
-This is some of my training exercises for Deep learning
+You will find here some of my training exercises from Deep learning courses
+
+
